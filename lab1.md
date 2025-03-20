@@ -6,5 +6,5 @@
 -> mkdir {friends,family,work}
 ![image](https://github.com/user-attachments/assets/3cff3ed5-f15f-4cac-b6e5-e93048f06abc)
 
+![image](https://github.com/user-attachments/assets/e43a00d9-d4ec-42e7-8c6c-c1710d1940f5)
 
-![Uploading image.png…]()
